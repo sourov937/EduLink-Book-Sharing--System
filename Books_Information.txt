@@ -1,0 +1,9 @@
+Physics NuclearPhysics mahee New No 123 3
+Chemistry OrganicChemistry sourov chandra das New No 20244103082 3
+Biology Botany mahee New Yes 123 2
+Math DiscreteMathematics Mahee New No 123 4
+Biology AnimalLife Sanjida New No 123 4
+chemistry AcidBase mahee New No 123 2
+English EnglishLanguage William New Yes 123 4
+Astrology Universe KlinBlink New No 789 6
+Geographhy Society Makhlim New Yes 789 7
