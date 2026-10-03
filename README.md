@@ -102,12 +102,14 @@ edulink.exe
 ./edulink
 ```
 📸 Screenshots:-
+
 1.Edulink home_page
 ![image alt ](https://github.com/sourov937/EduLink-Book-Sharing--System/blob/f585e0484ad83a564751dab442634fe3d29c58e1/Edulink%20dashboard.png)
  2.Student Registration Dashboard:
 
 ![image alt ](https://github.com/sourov937/EduLink-Book-Sharing--System/blob/deffeb438cc0f1188d47771680244e5f62d0eed7/Student%20Register%20Dashboard.png)
 3.Student Login Dashboard:
+
 ![image alt ](https://github.com/sourov937/EduLink-Book-Sharing--System/blob/ae5aff90ea2ab52f94fedd234fd161ce7a63f507/Login%20Dashboard.png)
 ## 🚀 Future Improvements
 
