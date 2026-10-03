@@ -103,7 +103,8 @@ edulink.exe
 ```
 Edulink home_page
 ![image alt ](https://github.com/sourov937/EduLink-Book-Sharing--System/blob/f585e0484ad83a564751dab442634fe3d29c58e1/Edulink%20dashboard.png)
-Student Register Dashboard:
+🎓 Student Registration Dashboard
+![image alt ](https://github.com/sourov937/EduLink-Book-Sharing--System/blob/deffeb438cc0f1188d47771680244e5f62d0eed7/Student%20Register%20Dashboard.png)
 
 ## 🚀 Future Improvements
 
