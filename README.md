@@ -123,4 +123,4 @@ Academic Project — Book Sharing System using C.
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository!
+
